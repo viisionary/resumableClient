@@ -139,7 +139,7 @@ function App() {
 		<Box flexDirection={'row'} display={'flex'}>
 			<Box margin={8}>
 				<h1>
-					断点续传 示例
+					分片上传 示例
 				</h1>
 				<h2>实现功能</h2>
 				<ol>
