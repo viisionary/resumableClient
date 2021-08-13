@@ -8,6 +8,7 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "4.11.2",
+    "immutable": "^4.0.0-rc.14",
     "react": "latest",
     "react-dom": "latest",
     "resumablejs": "1.1.0"
