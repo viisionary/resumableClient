@@ -4,7 +4,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import LinearProgress from "@material-ui/core/LinearProgress";
 import Typography from "@material-ui/core/Typography";
 import Box from "@material-ui/core/Box";
-import Paper from "_@material-ui_core@4.12.3@@material-ui/core/Paper";
+import Paper from "@material-ui/core/Paper";
 
 function LinearProgressWithLabel(props) {
 	return (
